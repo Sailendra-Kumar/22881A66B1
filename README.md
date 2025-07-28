@@ -35,21 +35,21 @@ A comprehensive URL shortening service with analytics capabilities, built using 
 
 1. **Install Logging Middleware**
    ```bash
-   cd logging-middleware
+   cd Logging Middleware
    npm install
    npm run build
    ```
 
 2. **Setup Backend**
    ```bash
-   cd backend
+   cd Backend Test Submission
    npm install
    npm run dev
    ```
 
 3. **Setup Frontend**
    ```bash
-   cd frontend
+   cd Frontend Test Submission
    npm install
    npm start
    ```
