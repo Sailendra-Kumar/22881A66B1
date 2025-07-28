@@ -67,3 +67,21 @@ Create `.env` files in both backend and frontend directories with:
 - `LOG_API_URL`: Logging service URL
 - `CLIENT_ID`: Authentication client ID
 - `CLIENT_SECRET`: Authentication client secret 
+
+
+## 📸 Output:
+
+### 1
+![1](./assets/1.png)
+
+### 2
+![2](./assets/2.png)
+
+### 3
+![3](./assets/3.png)
+
+### 4
+![4](./assets/4.png)
+
+### 5
+![5](./assets/5.png)
